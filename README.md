@@ -25,13 +25,13 @@ Identificar los elemento de navegación del site Breather,Github y Medium.
 
 * **Navegación filtrada**
 
- Brinda resultados eligiendo el lugar, dia y cantidad de personas.
+  Brinda resultados eligiendo el lugar, dia y cantidad de personas.
 
- ![navegacion filtrada](assets/images/images_breather/navegacion_filtrada.JPG)
+  ![navegacion filtrada](assets/images/images_breather/navegacion_filtrada.JPG)
 
- Permite realizar una búsqueda según el día, hora y tiempo de duración.
+  Permite realizar una búsqueda según el día, hora y tiempo de duración.
 
- ![navegacion filtrada](assets/images/images_breather/navegacion_filtrada2.JPG)
+  ![navegacion filtrada](assets/images/images_breather/navegacion_filtrada2.JPG)
 
 ### Site Github
 ***
@@ -49,6 +49,8 @@ Identificar los elemento de navegación del site Breather,Github y Medium.
 * **Navegación faceteada**
 
 ![navegacion faceteada](assets/images/images_github/navegacion_faceteada.JPG)
+
+
 
 ![navegacion faceteada](assets/images/images_github/navegacion_faceteada1.JPG)
 
@@ -84,6 +86,8 @@ Identificar los elemento de navegación del site Breather,Github y Medium.
 
 ![navegacion inline](assets/images/images_medium/navegacion_inline.JPG)
 
+
 * **Navegación suplementaria**
+
 
 ![navegacion suplemtaria](assets/images/images_medium/navegacion_suplememtaria.JPG)
