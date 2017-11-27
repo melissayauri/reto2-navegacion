@@ -33,13 +33,6 @@ Identificar los elemento de navegación del site Breather,Github y Medium.
 
  ![navegacion filtrada](assets/images/images_breather/navegacion_filtrada2.JPG)
 
-* **Navegación contextual**
-
- Indica recomendaciones sobre espacios de trabajo
-
-![navegacion filtrada](assets/images/images_breather/navegacion_contextual.JPG)
-
-
 ### Site Github
 ***
 
@@ -66,3 +59,31 @@ Identificar los elemento de navegación del site Breather,Github y Medium.
 * **Navegación inline**
 
 ![navegacion inline](assets/images/images_github/navegacion_inline.JPG)
+
+
+
+### Site Medium
+***
+
+* **Navegación global**
+
+![navegacion global](assets/images/images_medium/navegacion_global.JPG)
+
+* **Navegación faceteada**
+
+![navegacion faceteada](assets/images/images_medium/navegacion_faceteada.JPG)
+
+* **Navegación contextual**
+
+![navegacion contextual](assets/images/images_medium/navegacion_contextual.JPG)
+
+![navegacion contextual](assets/images/images_medium/navegacion_contextual1.JPG)
+
+
+* **Navegación inline**
+
+![navegacion inline](assets/images/images_medium/navegacion_inline.JPG)
+
+* **Navegación suplementaria**
+
+![navegacion suplemtaria](assets/images/images_medium/navegacion_suplememtaria.JPG)
