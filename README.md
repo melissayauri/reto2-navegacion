@@ -4,6 +4,7 @@
 Identificar los elemento de navegación del site Breather,Github y Medium.
 
 ### Site Breather
+***
 * **Navegación global**
 
   Navegación principal y se repite en cada opción de la web.
@@ -38,4 +39,30 @@ Identificar los elemento de navegación del site Breather,Github y Medium.
 
 ![navegacion filtrada](assets/images/images_breather/navegacion_contextual.JPG)
 
+
 ### Site Github
+***
+
+* **Navegación global**
+
+![navegacion global](assets/images/images_github/navegacion_global.JPG)
+
+* **Navegación local**
+
+![navegacion local](assets/images/images_github/navegacion_local.JPG)
+
+![navegacion local](assets/images/images_github/navegacion_local1.JPG)
+
+* **Navegación faceteada**
+
+![navegacion faceteada](assets/images/images_github/navegacion_faceteada.JPG)
+
+![navegacion faceteada](assets/images/images_github/navegacion_faceteada1.JPG)
+
+* **Navegación filtrada**
+
+![navegacion filtrada](assets/images/images_github/navegacion_filtrada.JPG)
+
+* **Navegación inline**
+
+![navegacion inline](assets/images/images_github/navegacion_inline.JPG)
